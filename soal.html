@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Card Klik</title>
+
+<style>
+
+body{
+    font-family: Arial;
+    background: #f0f0f0;
+}
+
+/* Container */
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 100px;
+    flex-wrap: wrap;
+}
+
+/* Card */
+.card{
+    width: 220px;
+    height: 150px;
+    background: white;
+
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-decoration: none;
+    color: black;
+
+    font-size: 25px;
+    font-weight: bold;
+
+    transition: 0.3s;
+}
+
+/* Hover */
+.card:hover{
+    transform: translateY(-10px);
+    background: blue;
+    color: white;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <a href="#home" class="card">
+        HOME
+    </a>
+
+    <a href="#profile" class="card">
+        PROFILE
+    </a>
+
+    <a href="#setting" class="card">
+        SETTING
+    </a>
+
+</div>
+
+</body>
+</html>
