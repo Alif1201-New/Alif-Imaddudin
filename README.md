@@ -16,7 +16,7 @@ Hello i am a student at SMKN 1 Dlanggu majoring in sofware engineering (RPL). I 
 
 5. My past experience 
 
-In a previous project, i worked in a team facing a set deadline. A conflict arise due to missinformation, so i proposed a colaboratif working approach to prevent further missunderstandings and resolve the exiting issue ultimately, we succesed in completing the project a head of schedule and achived a very good grade
+In a previous project, i worked in a team facing a set deadline. A conflict arise due to missinformation, so i proposed a colaboratif working approach to prevent further missunderstandings and resolve the exiting issue ultimately, we succesed in completing the project a head of schedule and achived a very good grade,Examples of my past projects include a point-of-sale (cash register) system built using HTML, a calculator created with PHP, and a simple online store website.
 
 6. My career goal
 
